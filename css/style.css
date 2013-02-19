@@ -1,0 +1,27 @@
+.clear {
+    clear: both;
+    width: 0;
+    height: 0;
+}
+
+#main {
+    width: 800px;
+    margin: 0 auto;
+}
+#main .settings {
+    margin: 20px 0;
+}
+#main #family{
+    width: 150px;
+    float: left;
+}
+#main #size {
+    float: right;
+    width: 200px;
+    right: 8px;
+}
+#main textarea {
+    width: 800px;
+    height: 300px;
+    resize: none;
+}
