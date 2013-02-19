@@ -3,7 +3,7 @@ define(["functions", "DOM", "values", "server", "config"], function(functions, D
         assign: function(){
             var keyupTimeoutId;
             var _this = this;
-            server.socket = new WebSocket("ws://localhost:8081");
+
             /* font size slider */
             DOM.$size.slider({
                 range: "min",

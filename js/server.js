@@ -12,6 +12,6 @@ define(["values", "functions", "config"], function(values, functions, config){
         sendRequest : function() {
             this.socket.send(JSON.stringify(values));
         },
-        socket: null
+        socket: new WebSocket("ws://localhost:8081")
     }
 });
