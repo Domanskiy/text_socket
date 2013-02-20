@@ -1,4 +1,4 @@
-define(["functions", "DOM", "values", "server", "config"], function(functions, DOM, values, server, config){
+define(["functions", "DOM", "values", "server", "config", "jquery", "jquery-ui"], function(functions, DOM, values, server, config){
     return {
         assign: function(){
             var keyupTimeoutId;
