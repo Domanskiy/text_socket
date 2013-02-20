@@ -22,10 +22,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DOM.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="DOM.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/DOM.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="26" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0">
+            <state line="3" column="26" selection-start="102" selection-end="102" vertical-scroll-proportion="0.057562076">
               <folding />
             </state>
           </provider>
@@ -40,10 +40,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="text.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="text.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/text.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="66" selection-start="349" selection-end="349" vertical-scroll-proportion="0.1383721">
+            <state line="7" column="3" selection-start="286" selection-end="286" vertical-scroll-proportion="-4.576923">
               <folding />
             </state>
           </provider>
@@ -326,13 +326,6 @@
         <state line="25" column="5" selection-start="600" selection-end="600" vertical-scroll-proportion="0.47968397" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/DOM.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="26" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/server.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="53" selection-start="516" selection-end="516" vertical-scroll-proportion="0.0">
@@ -364,6 +357,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/text.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="3" selection-start="286" selection-end="286" vertical-scroll-proportion="-4.576923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/start.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="0" selection-start="258" selection-end="258" vertical-scroll-proportion="0.0">
@@ -371,9 +371,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/text.html">
+    <entry file="file://$PROJECT_DIR$/js/DOM.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="66" selection-start="349" selection-end="349" vertical-scroll-proportion="0.1383721">
+        <state line="3" column="26" selection-start="102" selection-end="102" vertical-scroll-proportion="0.057562076">
           <folding />
         </state>
       </provider>
